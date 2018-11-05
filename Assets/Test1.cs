@@ -39,8 +39,7 @@ public class Test1 : MonoBehaviour {
         lastboss.Attack();
         lastboss.Defence(3);
         lastboss.Magic ();
-        //for文での繰り返しかたが分からない
-        //lastboss.Magic (); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic();
+        lastboss.Magic (); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic(); lastboss.Magic();
 
 
 
